@@ -6,7 +6,11 @@ Introdução a React & React Native
 Exercícios
 1. Adapte a aplicação vista em aula para que ela mostre seis números aleatórios entre 1 e 60, sem
 repetição. Ou seja, implemente um gerador de jogos da mega sena.
-![image](https://user-images.githubusercontent.com/40305033/165874337-e46f3ee0-8571-4272-bbcb-e65061a54bf8.png)
+
+![image](https://user-images.githubusercontent.com/40305033/165874408-03461566-74d1-4dcb-97a8-5621c591ae07.png)
+
+
+
 Instruções para entrega
 Utilize o guia para criação de releases no Github disponível no ambiente da disciplina. Faça o
 upload de suas soluções e gere uma release. A entrega deve ser o link da release no ambiente
